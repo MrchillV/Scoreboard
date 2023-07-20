@@ -5,6 +5,9 @@ body {
     background-color: #1B244A;
     color: white;
     padding: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container {
@@ -16,7 +19,6 @@ body {
     width: 500px;
     height: auto;
     max-width: 1920px;
-    margin: 0 auto;
 }
 
 .home{
